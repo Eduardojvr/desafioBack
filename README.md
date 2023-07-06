@@ -41,3 +41,4 @@ Siga estes passos para configurar o projeto:
     mvn jacoco:report    
 
 Após rodar o jacoco, abra "target\site\jacoco\index.html" no navegador
+
